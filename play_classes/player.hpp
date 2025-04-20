@@ -10,6 +10,10 @@ class player {
         int health;
         int oxygen;
         int stress;
+
+    
+
+        
 };
 
 }
