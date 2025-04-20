@@ -7,7 +7,9 @@ namespace game_class {
 class player {
 
     public:
-        int loh;
+        int health;
+        int oxygen;
+        int stress;
 };
 
 }

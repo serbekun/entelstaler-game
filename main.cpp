@@ -5,6 +5,8 @@
 
 int main() {
 
+    // init objects
+    game_class::player player;
 
     return 0;
 }
