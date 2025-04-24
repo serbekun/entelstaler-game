@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-namespace game_class {
+namespace GameClass {
 
 class player {
 
@@ -11,7 +11,9 @@ class player {
         int oxygen;
         int stress;
 
-    
+    void UseOxygen() {
+        this->oxygen -= 10;
+    }    
 
         
 };
