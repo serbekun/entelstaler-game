@@ -1,12 +1,12 @@
 #include <iostream>
 
 // include play classes
-#include <play_classes/player.hpp>
+#include "play_classes/player.hpp"
 
 int main() {
 
     // init objects
-    game_class::player player;
+    GameClass::player player;
 
     return 0;
 }
