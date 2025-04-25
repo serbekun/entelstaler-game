@@ -13,7 +13,8 @@ class player {
 
     void UseOxygen() {
         this->oxygen -= 10;
-    }    
+    }
+
 
         
 };
