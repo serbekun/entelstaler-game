@@ -15,8 +15,6 @@ public:
     int planet_mass;
     int planet_have_hydrogen;
 
-
-
 };
 
 }
